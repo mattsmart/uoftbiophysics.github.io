@@ -42,7 +42,7 @@ There are [two approaches to do this](https://docs.github.com/en/github/collabor
 - Locally, use `git pull` to update your copy of the fork. 
 
 *Command line*
-- Configure upstream remote (if you haven't yet): <br/>`git remote add upstream https://github.com/uoftbiophysics/uoftbiophysics.github.git`
+- Configure upstream remote (if you haven't yet): <br/>`git remote add upstream https://github.com/uoftbiophysics/uoftbiophysics.github.io`
 - Verify it was added: `git remote -v`
 - To sync changes, do:
 	- `git fetch upstream`
